@@ -3,8 +3,7 @@
 
 
 
-- 🔭 I’m currently working on thebasement.app
-- 🌱 I’m currently learning how to make websites
-- 🤔 I’m looking for help with merging the pelicanadmin panel to pyrodactyl
+- 🔭 I’m currently working on AxionLabs
+- 🌱 I’m currently learning how to make websites, Games, and Cad Models
 - 📫 How to reach me: noahlemay09@hotmail.com
-- ⚡ Fun fact: i am french canadian
+- ⚡ Fun fact: I am Quebecois
