@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on AxionLabs
+
 - 🌱 I’m currently learning how to make websites, Games, and Cad Models
-- 📫 How to reach me: noahlemay09@hotmail.com
-- ⚡ Fun fact: I am Quebecois
+- 📫 How to reach me: axion@axionqc.dev
+- ⚡ Fun fact: Current War Thunder Addict
